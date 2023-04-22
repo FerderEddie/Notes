@@ -1,0 +1,168 @@
+.homeContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  height: 92vh;
+  padding: 20px;
+  background-color: #fdb813;
+  background-image: linear-gradient(215deg, #fdb813 0%, #788cb6 74%);
+}
+
+.homeImage {
+  width: 50%;
+  height: 400px;
+  margin-right: 6rem;
+  background-image: url("https://images.pexels.com/photos/317356/pexels-photo-317356.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+  background-size: cover;
+  background-position: center;
+}
+
+.homeImage img {
+  width: 70%;
+  margin: 0 auto;
+}
+
+.registerContainer form {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  text-align: center;
+  text-transform: capitalize;
+  flex-direction: column;
+  margin-bottom: 40px;
+  padding: 20px;
+  gap: 0.2rem;
+}
+
+.registerContainer input {
+  width: 80%;
+  padding: 0.2em;
+  margin: 10px auto;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f8f8f8;
+  font-family: "Poppins";
+}
+
+.registerContainer input:focus {
+  outline: none;
+  box-shadow: 0 0 3px #fdb813;
+}
+
+.registerContainer button {
+  width: 40%;
+  text-transform: capitalize;
+  padding-block: 0.4em;
+  margin: 10px auto;
+  font-family: "Poppins";
+  border-radius: 20px;
+  cursor: pointer;
+  background-color: black;
+  color: #fff;
+  border: none;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s ease;
+  margin-top: 1.5em;
+}
+
+.registerContainer button:hover {
+  background-color: darkorange;
+}
+
+.registerContainer p {
+  border: 3px solid #000;
+  border-radius: 20px;
+  padding-block: 6px;
+  width: 90%;
+  font-family: "Poppins";
+  font-size: small;
+  background-color: #fff;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.registerContainer h1 {
+  font-family: "Poppins";
+}
+
+.registerContainer input::placeholder {
+  text-transform: capitalize;
+}
+
+.mainContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  height: 92vh;
+  padding: 20px;
+  background-color: #fdb813;
+  background-image: linear-gradient(315deg, #fdb813 0%, #788cb6 74%);
+}
+
+.loginContainer {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  text-align: center;
+  text-transform: capitalize;
+  flex-direction: column;
+  margin-bottom: 40px;
+  padding: 20px;
+  gap: 0.2rem;
+}
+
+.loginContainer input {
+  width: 80%;
+  padding: 0.2em;
+  margin: 10px auto;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f8f8f8;
+  font-family: "Poppins";
+}
+
+.loginContainer input:focus {
+  outline: none;
+  box-shadow: 0 0 3px #fdb813;
+}
+
+.loginContainer button {
+  width: 40%;
+  text-transform: capitalize;
+  padding-block: 0.4em;
+  margin: 10px auto;
+  font-family: "Poppins";
+  border-radius: 20px;
+  cursor: pointer;
+  background-color: black;
+  color: #fff;
+  border: none;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s ease;
+  margin-top: 1.5em;
+}
+
+.loginContainer button:hover {
+  background-color: darkorange;
+}
+
+.loginContainer h2 {
+  font-family: "Poppins";
+}
+
+.loginContainer input::placeholder {
+  text-transform: capitalize;
+}
+
+.mainContainer {
+  display: none;
+}
+
+.goBack{
+  padding-top: 1.2em;
+  font-family: "Poppins", sans-serif;
+  color: whitesmoke;
+  text-transform: capitalize;
+}

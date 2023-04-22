@@ -1,0 +1,94 @@
+
+
+.mainContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  background-color: #fdb813;
+  background-image: linear-gradient(10deg, #fdb813 0%, #788cb6 74%);
+  margin-top: -0.5rem;
+  min-height: 100vh; 
+  height: auto;
+}
+
+.welcome {
+  text-transform: capitalize;
+  padding: 0.2em;
+  text-align: center;
+  color: white;
+  background-color: black;
+}
+
+.note {
+  text-align: center;
+  text-transform: capitalize;
+  padding: 10px;
+  color: black;
+  border-radius: 2px;
+  height: fit-content;
+  background-image: url("https://www.becomingminimalist.com/wp-content/uploads/2008/07/post-it-note.jpg");
+  background-size: 320%;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin-top: 10rem;
+  box-shadow: 0 15px 4px rgba(0, 0, 0, 0.2); 
+}
+
+.noteContent {
+  word-wrap: break-word;
+  padding: 15px;
+  border: none;
+  border-radius: 10px;
+  font-size: 18px;
+  width: 100%;
+}
+
+.addingForm {
+  text-align: center;
+  margin: 5rem;
+  text-transform: capitalize;
+  font-family: "Poppins", sans-serif;
+  color: whitesmoke;
+}
+
+.addingForm button {
+  margin-top: 1.5rem;
+  text-transform: capitalize;
+  width: 30%;
+  font-family: "Poppins", sans-serif;
+}
+
+.addingForm label {
+  margin-top: 1rem;
+}
+
+.addingForm p {
+  font-size: larger;
+}
+
+.addingForm input {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.addingForm textarea {
+  width: 60%;
+  margin: 0 auto;
+}
+
+.dashDiv {
+  text-transform: capitalize;
+  text-align: center;
+  margin-top: 4em;
+  gap: 1em;
+  display: flex;
+  flex-direction: column;
+}
+
+.dashDiv a {
+  color: white;
+}
+
+.noNote {
+  color: whitesmoke;
+}
