@@ -1,4 +1,4 @@
-# Notes-Project
+# Notes
 
 a system to make notes.
 
