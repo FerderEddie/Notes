@@ -4,7 +4,7 @@ a system you can register/login and create notes.
 
 manage your notes at the dashboard, options like add,update,delete and see all notes by user id are available as well.
 
-done by frontend and backend technologies
+Made with Mern Stack (without React)
 
 ![Screenshot 2023-04-22 213543](https://user-images.githubusercontent.com/110486605/233801304-9992dbbd-6dd4-413e-88f5-0c3792d6041c.png)
 ![Screenshot 2023-04-22 213603](https://user-images.githubusercontent.com/110486605/233801305-8f8e5733-b93c-4246-ab38-3016598b0725.png)
