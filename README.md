@@ -10,9 +10,21 @@
 ## Screenshots
 
 ![Screenshot 1](https://user-images.githubusercontent.com/110486605/233801304-9992dbbd-6dd4-413e-88f5-0c3792d6041c.png)
+
+<br>
+
 ![Screenshot 2](https://user-images.githubusercontent.com/110486605/233801305-8f8e5733-b93c-4246-ab38-3016598b0725.png)
+
+<br>
+
 ![Screenshot 3](https://user-images.githubusercontent.com/110486605/233801308-051944c1-a35f-43c7-a8ea-60fe905d006c.png)
+
+<br>
+
 ![Screenshot 4](https://user-images.githubusercontent.com/110486605/233801311-615af320-7895-4092-aeae-0376927a43be.png)
+
+<br>
+
 ![Screenshot 5](https://user-images.githubusercontent.com/110486605/233801433-33a42555-e7a2-4218-97c8-4477480a5403.png)
 
 
